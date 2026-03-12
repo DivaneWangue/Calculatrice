@@ -1,4 +1,5 @@
 import { addition } from './function/addition.js';
+import { multiplication } from './function/multiplication.js';
 import readline from 'readline';
 
 const rl = readline.createInterface({

@@ -1,4 +1,5 @@
 import { addition } from './function/addition.js';
+import { squareroot } from './function/square_root.js';
 import { multiplication } from './function/multiplication.js';
 import { subtraction } from './function/subtraction.js';
 import readline from 'readline';

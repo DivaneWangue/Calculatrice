@@ -30,7 +30,7 @@ const operations = {
     '4': {
         label: 'Division',
         args: 2,
-        fn: (a) => division(a, b)
+        fn: (a, b) => division(a, b)
     },
     '5': {
         label: 'Racine carrée',
